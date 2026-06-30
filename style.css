@@ -1,8 +1,16 @@
 body{
-    background-color: #004e46;
+    background-color: #8ac1ff;
     font-family: 'Poppins', sans-serif;
-    color: #250202;
+    color: #09076b;
     font-size: 16px;
     align-items: center;
     margin: 50px;
+}
+h1{
+    color: #09076b;
+    text-align: center;
+    font-size: 36px;
+    fonte-family: 'Poppins', comic sans-serif;
+    margin-top: 30px;
+    margin-bottom: 40px
 }
