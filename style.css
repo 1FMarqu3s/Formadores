@@ -4,13 +4,39 @@ body{
     color: #09076b;
     font-size: 16px;
     align-items: center;
-    margin: 50px;
+    margin: 30px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px ;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+p{
+    color: #09076b;
+    text-align: center;
+    font-size: 18px;
+    fonte-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 30px
 }
 h1{
     color: #09076b;
     text-align: center;
     font-size: 36px;
-    fonte-family: 'Poppins', comic sans-serif;
+    fonte-family: 'Poppins', sans-serif;
     margin-top: 30px;
     margin-bottom: 40px
+}
+h2{
+    color: #09076b;
+    text-align: center;
+    font-size: 28px;
+    fonte-family: 'Poppins', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 20px
 }
